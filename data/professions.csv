@@ -1,0 +1,8 @@
+﻿name,level,experience,experience_per_level,physical_attack_increase,physical_defense_increase,mental_attack_increase,mental_defense_increase,spiritual_attack_increase,spiritual_defense_increase,health_increase
+soldier,1,0,75,greater,greater,lesser,lesser,lesser,lesser,greater
+thief,1,0,80,greater,lesser,lesser,greater,lesser,average,average
+bowman,1,0,120,greater,lesser,lesser,average,lesser,greater,lesser
+templar,1,0,150,greater,average,average,lesser,greater,greater,greater
+shaman,1,0,200,average,lesser,average,average,greater,greater,average
+priest,1,0,200,lesser,lesser,greater,average,average,greater,average
+mage,1,0,225,lesser,lesser,greater,greater,average,average,lesser
