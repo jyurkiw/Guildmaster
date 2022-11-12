@@ -1,6 +1,6 @@
 import esper
 
-from game.lib import RandomEntryRoller, CurveRoller
+from game.base import RandomEntryRoller, CurveRoller
 from game.components import *
 from random import choice, choices, randint
 

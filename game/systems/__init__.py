@@ -3,7 +3,7 @@ import os.path
 import esper
 from rich import print
 
-from game.lib import CurveRoller
+from game.base import CurveRoller
 from game.components import CombatStats, Target, HeroIdentity, CombatMessages, CombatInventory
 
 
